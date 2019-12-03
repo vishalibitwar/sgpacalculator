@@ -3,7 +3,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position-y: -80px;
-  background-attachment: fixed;
+ /* background-attachment: fixed; */
   font-family: 'Tomorrow', sans-serif;
 }
 
